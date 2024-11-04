@@ -1,0 +1,23 @@
+# バージョン管理
+.git
+.gitignore
+
+# 依存関係
+node_modules
+npm-debug.log
+
+# ビルド出力
+.next
+out
+
+# 環境変数
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# その他
+README.md
+.DS_Store
+*.pem
