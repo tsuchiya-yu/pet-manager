@@ -28,7 +28,7 @@
 ### 1. リポジトリのクローン
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/tsuchiya-yu/pet-manager.git
 cd pet-manager
 ```
 
